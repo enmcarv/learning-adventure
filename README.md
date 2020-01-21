@@ -16,6 +16,7 @@ Instructions
 3. Create a directory with your name in this format `lastname_name`. 👩‍💻
 4. Upload your daily notes in this new directory. Markdown, plain text, and picture files are all good!
 5. Title your notes in this format: `DDMMYY_topic`.
+    + If you have multiple files to upload, move them in a directory titled like we see above
     + After the date, the wording for the topic is up to you, be descriptive! 🕵️
 5. **Open a Pull Request** (these will be merged daily, so open one every day!). ↕️
 
